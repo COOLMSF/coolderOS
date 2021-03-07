@@ -1,0 +1,137 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/coolder/Git/30day_make_OS_coolder/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+build	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^build:$/;"	t
+build	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^build:$/;"	t
+build	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^build:$/;"	t
+build	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^build:$/;"	t
+clean	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^clean:$/;"	t
+clean	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^clean:$/;"	t
+clean	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^clean:$/;"	t
+clean	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^clean:$/;"	t
+debug	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^debug:$(sys)$/;"	t
+debug	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^debug:$(sys)$/;"	t
+debug	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^debug:$(sys)$/;"	t
+debug	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^debug:$(sys)$/;"	t
+elf	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^elf=coolderOS.elf$/;"	m
+elf	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^elf=coolderOS.elf$/;"	m
+elf	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^elf=coolderOS.elf$/;"	m
+elf	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^elf=coolderOS.elf$/;"	m
+entry	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS_more_info.s	/^entry:$/;"	l
+entry	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^entry:$/;"	l
+entry	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^entry:$/;"	l
+entry	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^entry:$/;"	l
+fat12	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS_more_info.s	/^	fat12:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^.fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS_more_info.s	/^fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^.fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^.fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^.fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^.fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^.fin:$/;"	l
+fin	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^.fin:$/;"	l
+img	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^img:$(sys)$/;"	t
+img	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^img=coolderOS.img$/;"	m
+img	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^img:$(sys)$/;"	t
+img	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^img=coolderOS.img$/;"	m
+img	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^img:$(sys)$/;"	t
+img	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^img=coolderOS.img$/;"	m
+img	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^img:$(sys)$/;"	t
+img	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^img=coolderOS.img$/;"	m
+int_error	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^int_error:$/;"	l
+int_error	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^int_error:$/;"	l
+int_error	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^int_error:$/;"	l
+main	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^main:$/;"	l
+main	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^main:$/;"	l
+main	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^main:$/;"	l
+main	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^main:$/;"	l
+make	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^make=make -r$/;"	m
+make	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^make=make -r$/;"	m
+make	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^make=make -r$/;"	m
+make	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^make=make -r$/;"	m
+msg	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS_more_info.s	/^msg:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^msg_coolderOS:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^msg_coolderOS:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^msg_coolderOS:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^msg_coolderOS:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^msg_coolderOS:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^msg_coolderOS:$/;"	l
+msg_coolderOS	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^msg_coolderOS:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^msg_err:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^msg_err:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^msg_err:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^msg_err:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^msg_err:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^msg_err:$/;"	l
+msg_err	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^msg_err:$/;"	l
+msg_int_err	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^msg_int_err:$/;"	l
+msg_int_err	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^msg_int_err:$/;"	l
+msg_int_err	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^msg_int_err:$/;"	l
+msg_int_err	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^msg_int_err:$/;"	l
+msg_int_err	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^msg_int_err:$/;"	l
+msg_int_err	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^msg_int_err:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_done	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^msg_read_sector_done:$/;"	l
+msg_read_sector_error	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^msg_read_sector_error:$/;"	l
+msg_read_sector_retry	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^msg_read_sector_retry:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^.next:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^.next:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^.next:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^.next:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^.next:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^.next:$/;"	l
+next	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^.next:$/;"	l
+obj	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^obj=coolderOS.o$/;"	m
+obj	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^obj=coolderOS.o$/;"	m
+obj	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^obj=coolderOS.o$/;"	m
+obj	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^obj=coolderOS.o$/;"	m
+puts	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS_more_info.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^puts:$/;"	l
+puts	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^puts:$/;"	l
+puts_error	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^puts_error:$/;"	l
+puts_error	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^puts_error:$/;"	l
+puts_error	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^puts_error:$/;"	l
+read_next	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^read_next:$/;"	l
+read_one_sector_common	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^read_one_sector_common:$/;"	l
+read_one_sector_common	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^read_one_sector_common:$/;"	l
+read_sector	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^read_sector:$/;"	l
+read_sector	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^read_sector:$/;"	l
+read_sector	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^read_sector:$/;"	l
+run	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^run:$(sys)$/;"	t
+run	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^run:$/;"	t
+run	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^run:$/;"	t
+run	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^run:$/;"	t
+src	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^src=coolderOS.s$/;"	m
+src	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^src=coolderOS.s$/;"	m
+src	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^src=coolderOS.s$/;"	m
+src	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^src=coolderOS.s$/;"	m
+start	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day1/coolderOS_more_info.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day2.1/coolderOS1.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day2/coolderOS1.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS.s	/^start:$/;"	l
+start	/home/coolder/Git/30day_make_OS_coolder/day3/coolderOS1.s	/^start:$/;"	l
+sys	/home/coolder/Git/30day_make_OS_coolder/day1/Makefile	/^sys=coolderOS.sys$/;"	m
+sys	/home/coolder/Git/30day_make_OS_coolder/day2.1/Makefile	/^sys=coolderOS.sys$/;"	m
+sys	/home/coolder/Git/30day_make_OS_coolder/day2/Makefile	/^sys=coolderOS.sys$/;"	m
+sys	/home/coolder/Git/30day_make_OS_coolder/day3/Makefile	/^sys=coolderOS.sys$/;"	m
